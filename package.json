@@ -1,9 +1,11 @@
 {
   "name": "splitwiseclone",
   "version": "1.0.0",
-  "homepage": "https://garvitjain09.github.io/SplitWiseClone/",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "react",
+    "starter"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "bootstrap": "5.1.3",
